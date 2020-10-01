@@ -1,4 +1,4 @@
-<h1 align="center">choo-website</h1>
+<h1 align="center">Choo-website</h1>
 
 ![screenshot](./screenshot.png)
 
